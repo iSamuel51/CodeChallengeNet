@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "DataModels": "1.0.0-*",
+    "MySqlConnector": "1.2.1",
+    "NETStandard.Library": "2.0.3"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
